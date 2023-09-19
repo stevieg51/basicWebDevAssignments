@@ -1,0 +1,55 @@
+* {
+  background-color: black;
+  color: aquamarine;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body {
+  background-color: black !important;
+}
+#container {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
+label.error{
+  text-align: center;
+  font-size: smaller;
+  font-weight: lighter;
+  font-family: "Courier New", Courier, monospace;
+  opacity: 0.5;
+  color: aqua;
+}
+#alrightimdoneplaying {
+  color: aliceblue;
+  font-size: larger;
+  font-family: "Josefin Sans", sans-serif;
+  background-color: rgb(120, 179, 179) ;
+  margin: 2%;
+}
+button {
+  margin-top: 3% !important;
+}
+
+.navbar {
+  background-color: rgb(120, 179, 179);
+  padding: 2% !important;
+  border-radius: 10%;
+  margin-bottom: 5%;
+  display: flex;
+  max-width: 75%;
+  align-items: center;
+  justify-content: center;
+}
+img {
+  height: 10% !important;
+  width: 10% !important;
+  border-radius: 10%;
+  flex: left;
+  border: 2px solid rgb(93, 93, 195);
+}
+#navbar_container {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
