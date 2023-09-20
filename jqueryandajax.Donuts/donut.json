@@ -1,0 +1,36 @@
+{
+	"types":[
+		{
+			"id": "0001",
+			"name": "Cake",
+			"price": "3"
+		},
+	    {
+			"id": "0002",
+			"name": "Raised",
+			"price": "2"
+		},
+	    {
+			"id": "0003",
+			"name": "Old Fashioned",
+			"price": "1"
+		}],
+	"batters":
+	[
+						{ "id": "1001", "type": "Regular", "price":"1" },
+						{ "id": "1002", "type": "Chocolate", "price":"2" },
+						{ "id": "1002", "type": "Vanilla", "price":"1.5"},
+						{ "id": "1003", "type": "Berry", "price":"2.5" }
+	],
+	"toppings":
+			[
+				{ "id": "5001", "type": "None", "price":"0" },
+				{ "id": "5002", "type": "Glazed", "price":".75"},
+				{ "id": "5005", "type": "Sugar" ,"price":".5"},
+				{ "id": "5007", "type": "Powdered Sugar" , "price":".5"},
+				{ "id": "5006", "type": "Chocolate with Sprinkles", "price":"1" },
+				{ "id": "5003", "type": "Chocolate", "price":".75"},
+				{ "id": "5004", "type": "Maple", "price": ".75"}
+			]
+}
+	
